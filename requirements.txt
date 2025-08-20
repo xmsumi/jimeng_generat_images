@@ -1,0 +1,5 @@
+# requirements.txt - 项目依赖清单
+volcengine>=1.0.0
+requests>=2.25.0
+pyinstaller>=5.0
+Pillow>=8.0.0
